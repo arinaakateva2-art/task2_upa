@@ -47,13 +47,13 @@ php artisan serve
 ## Скриншоты:
 
 Главная страница (файлы и теги):
-(screenshots/screen1.png)
+![Скриншот 1](screenshots/screen1.png)
 
 Работа с папками:
-(screenshots/screen2.png)
+![Скриншот 2](screenshots/screen2.png)
 
 Авторизация:
-(screenshots/screen3.png)
+![Скриншот 3](screenshots/screen3.png)
 
 Регистрация:
-(screenshots/screen4.png)
+![Скриншот 4](screenshots/screen4.png)
